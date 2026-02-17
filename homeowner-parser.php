@@ -1,6 +1,6 @@
 <?php
 
-$fakeHomeOwnersFilename = $argv[1] ?? 'examples.csv';
+$fakeHomeOwnersFilename = $argv[1] ?? 'homeowners.csv';
 
 if (!file_exists($fakeHomeOwnersFilename)) {
     echo "Error: File '$fakeHomeOwnersFilename' does not exist.\n";
