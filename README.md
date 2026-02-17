@@ -1,10 +1,10 @@
-### Street Group Tech Test - Homeowner Names Parser
+### Street Group Tech Test – Homeowner Names Parser
 
 This project contains a PHP script designed to parse a CSV file containing various formats of homeowner names into a structured JSON output.
 
 ### Prerequisites
 
-- PHP 8.4 or higher installed on your system.
+- Ideally PHP 8.4 or higher.
 
 ### Running the script
 
